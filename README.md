@@ -15,7 +15,7 @@ This repository contains the project done at the warmup before the first project
 * [ex10: ft_swap](https://github.com/humbertoarndt/42-reloaded/tree/main/ex10)
 * [ex11: ft_div_mod](https://github.com/humbertoarndt/42-reloaded/tree/main/ex11)
 * [ex12: ft_iterative_factorial](https://github.com/humbertoarndt/42-reloaded/tree/main/ex12)
-* [ex13: ft_recursive_factorail](https://github.com/humbertoarndt/42-reloaded/tree/main/ex13)
+* [ex13: ft_recursive_factorial](https://github.com/humbertoarndt/42-reloaded/tree/main/ex13)
 * [ex14: ft_sqrt](https://github.com/humbertoarndt/42-reloaded/tree/main/ex14)
 * [ex15: ft_putstr](https://github.com/humbertoarndt/42-reloaded/tree/main/ex15)
 * [ex16: ft_strlen](https://github.com/humbertoarndt/42-reloaded/tree/main/ex16)
