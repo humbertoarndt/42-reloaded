@@ -1,2 +1,32 @@
-# 42-reloaded
+# 42 São Paulo - Basecamp-Reloaded/22 🚀
+Version: March 2022 - Created
+## Overview
 This repository contains the project done at the warmup before the first project at 42SP
+* [ex00: Oh yeah, mooore...](https://github.com/humbertoarndt/42-reloaded/tree/main/ex00)
+* [ex01: Z](https://github.com/humbertoarndt/42-reloaded/tree/main/ex01)
+* [ex02: clean](https://github.com/humbertoarndt/42-reloaded/tree/main/ex02)
+* [ex03: find_sh](https://github.com/humbertoarndt/42-reloaded/tree/main/ex03)
+* [ex04: MAC](https://github.com/humbertoarndt/42-reloaded/tree/main/ex04)
+* [ex05: Can you create it?](https://github.com/humbertoarndt/42-reloaded/tree/main/ex05)
+* [ex06: ft_print_alphabet](https://github.com/humbertoarndt/42-reloaded/tree/main/ex06)
+* [ex07: ft_print_numbers](https://github.com/humbertoarndt/42-reloaded/tree/main/ex07)
+* [ex08: ft_is_negative](https://github.com/humbertoarndt/42-reloaded/tree/main/ex08)
+* [ex09: ft_ft](https://github.com/humbertoarndt/42-reloaded/tree/main/ex09)
+* [ex10: ft_swap](https://github.com/humbertoarndt/42-reloaded/tree/main/ex10)
+* [ex11: ft_div_mod](https://github.com/humbertoarndt/42-reloaded/tree/main/ex11)
+* [ex12: ft_iterative_factorial](https://github.com/humbertoarndt/42-reloaded/tree/main/ex12)
+* [ex13: ft_recursive_factorail](https://github.com/humbertoarndt/42-reloaded/tree/main/ex13)
+* [ex14: ft_sqrt](https://github.com/humbertoarndt/42-reloaded/tree/main/ex14)
+* [ex15: ft_putstr](https://github.com/humbertoarndt/42-reloaded/tree/main/ex15)
+* [ex16: ft_strlen](https://github.com/humbertoarndt/42-reloaded/tree/main/ex16)
+* [ex17: ft_strcmp](https://github.com/humbertoarndt/42-reloaded/tree/main/ex17)
+* [ex18: ft_print_params](https://github.com/humbertoarndt/42-reloaded/tree/main/ex18)
+* [ex19: ft_sort_params](https://github.com/humbertoarndt/42-reloaded/tree/main/ex19)
+* [ex20: ft_strdup](https://github.com/humbertoarndt/42-reloaded/tree/main/ex20)
+* [ex21: ft_range](https://github.com/humbertoarndt/42-reloaded/tree/main/ex21)
+* [ex22: ft_abs.h](https://github.com/humbertoarndt/42-reloaded/tree/main/ex22)
+* [ex23: ft_point.h](https://github.com/humbertoarndt/42-reloaded/tree/main/ex23)
+* [ex24: Makefile](https://github.com/humbertoarndt/42-reloaded/tree/main/ex24)
+* [ex25: ft_foreach](https://github.com/humbertoarndt/42-reloaded/tree/main/ex25)
+* [ex26: ft_count_if](https://github.com/humbertoarndt/42-reloaded/tree/main/ex26)
+* [ex27: display_file](https://github.com/humbertoarndt/42-reloaded/tree/main/ex27)
