@@ -6,11 +6,17 @@
 /*   By: harndt <humberto.arndt@gmail.com>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/25 13:47:35 by harndt            #+#    #+#             */
-/*   Updated: 2022/03/30 14:45:26 by harndt           ###   ########.fr       */
+/*   Updated: 2022/04/01 17:27:10 by harndt           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdlib.h>
+
+void	ft_putchar(char c)
+{
+	write(1, &c, 1);
+}
+
 
 int	ft_strlen(char *str)
 {
@@ -32,7 +38,7 @@ char	*ft_strdup(char *src)
 	{
 		i = 0;
 		len = ft_strlen(src);
-		ptr = (char *) malloc (len *(sizeof(int)));
+		ptr = (char *) malloc (len *(sizeof(char)));
 		while (i <= len)
 		{
 			ptr[i] = src[i];
